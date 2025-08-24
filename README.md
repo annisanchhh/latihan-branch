@@ -1,3 +1,2 @@
-# latihan branch deveopment
-latihannnn
+# latihan branch deveolopment
 # latihan branch main
